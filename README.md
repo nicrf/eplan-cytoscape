@@ -36,5 +36,5 @@ You can edit/add function if you want.
 
    
 
-   ![](https://i.imgur.com/NrkZ5es.gif)
+   ![](https://github.com/nicrf/eplan-cytoscape/blob/master/example.gif?raw=true)
 
